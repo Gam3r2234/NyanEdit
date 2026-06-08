@@ -1,0 +1,34 @@
+{
+    "screen scale": 1.75,
+    "extra button rows": 9,
+    "spritesheet dimensions":{
+        "standard tiles": {
+            "dimensions": [128,128]
+        }
+    },
+    "resource locations":{
+        "backgrounds": {
+            "spring forest": "resources\\BG01.png",
+            "summer forest": "resources\\BG02.png",
+            "fall forest": "resources\\BG03.png",
+            "winter forest": "resources\\BG04.png",
+            "holy forest": "resources\\BG05.png",
+            "holy forest final": "resources\\BG06.png"
+        },
+        "blocks": {
+            "spring forest": "resources\\BLOCK01.png",
+            "summer forest": "resources\\BLOCK02.png",
+            "fall forest": "resources\\BLOCK03.png",
+            "winter forest": "resources\\BLOCK04.png",
+            "holy forest": "resources\\BLOCK05.png",
+            "holy forest final": "resources\\BLOCK05.png"
+        },
+        "multiblocks": {
+            "default": "resources\\MULTIBLOCK01.png",
+            "holy forest": "resources\\MULTIBLOCK01.png"
+        },
+        "icon": "resources\\icon.png",
+        "no texture": "resources\\Special Tiles\\NoTexture.png",
+        "entity tileset": "resources\\ENTITY.png"
+    }
+}
