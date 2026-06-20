@@ -1,5 +1,7 @@
 This is a level editor for the game Nyan Nyan Parasol by SHISUIHOUSE.
 
+No generative AI was used in any step of the making of this program.
+
 This is a project made by me for testing purposes and this is my first ever bigger coding project.
 If you have any questions please contact me on discord (gam3r2234). If you have paid for this software you have been scammed.
 
